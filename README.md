@@ -1,6 +1,6 @@
 # Portfolio_Sample
 
-# This portfolio is about Bindu Vaghela.
+# This portfolio is about Bindubahen Vaghela.
 
 # In main header navigation links leads to respective sections. Some links leads to 'about black' because that page is not available now.
 
@@ -19,3 +19,10 @@
 # All naviagation links, images hover over. 
 
 # When resize the page or view the site on various screens and devices then with a responsive layout that adapts to viewport.
+
+* The URL of the deployed 
+https://bindi-v.github.io/Profile_Portfolio/
+
+* The URL of the GitHub repository
+
+https://github.com/bindi-v/Profile_Portfolio
