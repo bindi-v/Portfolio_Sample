@@ -16,6 +16,7 @@
 }
 /* navbar styling */
 .navbar {
+    padding: 15px 0;
     position: fixed;
     width: 100%;
     background: crimson;
@@ -34,4 +35,17 @@
 .navbar .menu li {
     list-style: none;
     display: inline-block;
+    color: #fff;
+    font-weight: 500;
+    margin-left: 25px;
+}
+
+/* home section styling */
+.home {
+    display: flex;
+    background: url("my_img.jpg") no-repeat center;
+    height: 100vh;
+    color: #fff;
+    min-height: 500px;
+    font-family: 'Ubuntu', sans-serif;
 }
