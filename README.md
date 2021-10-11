@@ -1,12 +1,16 @@
 # Portfolio_Sample
 
-## This portfolio is about Bindubahen Vaghela.
+## 
+This portfolio is about Bindubahen Vaghela.
 
-## In main header navigation links leads to respective sections. Some links leads to 'about black' because that page I am working on now.
+## 
+In main header navigation links leads to respective sections. Some links leads to 'about black' because that page I am working on now.
 
-## Subtitle have photo and career area.
+## 
+Subtitle have photo and career area.
 
-## About me section have brief introduction.
+## 
+About me section have brief introduction.
 
 ## Work section gives brief introduction of work did in past.
 
