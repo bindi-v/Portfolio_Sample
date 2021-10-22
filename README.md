@@ -4,7 +4,7 @@
 
  ![License](https://img.shields.io/badge/License-MIT-yellow)
 
- This is a portfolio for myself. It has variety of section that gives information about work, skills, contact, projects and about me. After completing bootcamp it is very useful to get jobs. When resize the page or view the site on various screens and devices then with a responsive layout that adapts to viewport.
+ This is a portfolio for myself. It has variety of section that gives information about work, skills, contact, projects and about me. After completing boot camp it is very useful to get jobs. When resize the page or view the site on various screens and devices then with a responsive layout that adapts to viewport.
 
 ## User Story
 
@@ -50,30 +50,26 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## License
 
 This project is licensed under
- MIT
-For more about the license, check this link
 
-![License](https://opensource.org/licenses/MIT)
+ [MIT](https://opensource.org/licenses/MIT)
+
+For more information about the license, check the above link.
 
 ## Contribution
 
-Some Activities from Bootcamp and W3Schools website as resource help me and some youtube tutorial videos help me build this website as well.
+Some Activities from Boot camp and W3Schools website as resource help me and some youtube tutorial videos help me build this website as well.
 
 ## Contact
 
-* GitHub : bindi-v
+* GitHub : [bindi-v](https://github.com/bindi-v)
 * Email : bindi.vaghela@gmail.com
     
 ## Questions
 
-If you have any questions, please reach out to this email,
- bindi.vaghela@gmail.com
+If you have any questions, please reach out to my Github.
 
 ## Deployed link
 
-* [The URL of the deployed] 
-(https://bindi-v.github.io/Profile_Portfolio/)
+* [The URL of the deployed](https://bindi-v.github.io/Profile_Portfolio/)
 
-* [The URL of the GitHub repository]
-
-(https://github.com/bindi-v/Profile_Portfolio)
+* [The URL of the GitHub repository](https://github.com/bindi-v/Profile_Portfolio)
