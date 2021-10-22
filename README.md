@@ -70,6 +70,6 @@ If you have any questions, please reach out to my Github.
 
 ## Deployed link
 
-* [The URL of the deployed](https://bindi-v.github.io/Profile_Portfolio/)
+* [The URL of the deployed link](https://bindi-v.github.io/Profile_Portfolio/)
 
 * [The URL of the GitHub repository](https://github.com/bindi-v/Profile_Portfolio)
